@@ -5,7 +5,7 @@ An advanced, AI-powered **medical dashboard** built with **Streamlit**, **Machin
 
 ---
 
-## 🔗 **Live Demo:** [Drug Recommendation Dashboard](https://drug-recommendation-system.streamlit.app/)  
+## 🔗 **Live Demo:** [Drug Recommendation Dashboard](https://drugrecommendationsystem11.streamlit.app/)  
 *(Update with your deployed Streamlit link if hosted)*
 
 ---
