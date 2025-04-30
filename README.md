@@ -113,7 +113,7 @@ streamlit run app.py
 
 > Get instant responses to medical queries with an integrated AI-powered assistant
 
-![screencapture-drugrecommendationsystem11-streamlit-app-2025-04-30-22_16_51](https://github.com/user-attachments/assets/16b7b738-80e7-4f2f-be6e-723525635d5e)
+![screencapture-drugrecommendationsystem11-streamlit-app-2025-04-30-22_16_51](https://github.com/user-attachments/assets/20d18cf4-039b-461d-b7af-b45261d00519)
 
 ---
 
