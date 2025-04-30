@@ -1,8 +1,4 @@
-Here is the **complete and ready-to-use `README.md` file** for your **Drug Analysis & Recommendation System** repository, matching the style of your DK YouTube project:
-
 ---
-
-```markdown
 # 💊 **Drug Analysis & Recommendation System** 🚀
 
 An advanced, AI-powered **medical dashboard** built with **Streamlit**, **Machine Learning**, and **Natural Language Processing**. It delivers intelligent drug suggestions, sentiment analysis from patient reviews, and real-time data visualizations to empower patients, researchers, and healthcare professionals.
