@@ -4,7 +4,7 @@
 An advanced, AI-powered **medical dashboard** built with **Streamlit**, **Machine Learning**, and **Natural Language Processing**. It delivers intelligent drug suggestions, sentiment analysis from patient reviews, and real-time data visualizations to empower patients, researchers, and healthcare professionals.
 
 <p align="center">
-  <img width="852" height="783" alt="Components" src="https://github.com/user-attachments/assets/b8fe2c4c-8664-4b9c-8a6b-39737a07f6ad" />
+  <img width="400" height="380" alt="Components" src="https://github.com/user-attachments/assets/b8fe2c4c-8664-4b9c-8a6b-39737a07f6ad" />
 </p>
 
 ---
