@@ -4,7 +4,7 @@
 An advanced, AI-powered **medical dashboard** built with **Streamlit**, **Machine Learning**, and **Natural Language Processing**. It delivers intelligent drug suggestions, sentiment analysis from patient reviews, and real-time data visualizations to empower patients, researchers, and healthcare professionals.
 
 <p align="center">
-  <img width="400" height="380" alt="Components" src="https://github.com/user-attachments/assets/b8fe2c4c-8664-4b9c-8a6b-39737a07f6ad" />
+  <img width="400" height="400" alt="drug recommendation system" src="https://github.com/user-attachments/assets/99878359-4230-4cf8-a82f-19395b7916a5" />
 </p>
 
 ---
@@ -24,6 +24,10 @@ An advanced, AI-powered **medical dashboard** built with **Streamlit**, **Machin
 ✅ Daily **Health Tips** and **Medical Resource Links**  
 ✅ Visually rich **Dark Neon UI with Glassmorphism**
 
+<p align="center">
+  <img width="400" height="250" alt="Categorizing_data" src="https://github.com/user-attachments/assets/86edd54f-facf-4942-908c-0fcdbcbfd16e" />
+</p>
+
 ---
 
 ## 🚀 **Tech Stack**
@@ -33,6 +37,10 @@ An advanced, AI-powered **medical dashboard** built with **Streamlit**, **Machin
 - **AI/NLP**: Scikit-learn, TextBlob
 - **Visualization**: Plotly, Power BI
 - **Others**: Web Scraping, Session State, Custom Health Tips
+
+<p align="center">
+  <img width="400" height="250" alt="Tech_Stack" src="https://github.com/user-attachments/assets/dfa08120-f332-468c-86ab-cd96932f64b6" />
+</p>
 
 ---
 
@@ -124,6 +132,10 @@ streamlit run app.py
 🔹 Multilingual sentiment support  
 🔹 Doctor dashboard with patient notes tracking  
 🔹 In-app PDF report export
+
+<p align="center">
+  <img width="450" height="280" alt="Future_enhancements" src="https://github.com/user-attachments/assets/6fe86321-dcc8-4f43-931b-19dc83886225" />
+</p>
 
 ---
 
